@@ -1,0 +1,22 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "Fun with Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevsaj/Fun-with-Angular.git"
+  },
+  "keywords": [
+    "Angular"
+  ],
+  "author": "kevsaj",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kevsaj/Fun-with-Angular/issues"
+  },
+  "homepage": "https://github.com/kevsaj/Fun-with-Angular#readme"
+}
