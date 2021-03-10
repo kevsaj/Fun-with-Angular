@@ -6,6 +6,13 @@
           "angular-tic-tac-to"
         ]
       }
+    },
+    "tictactoekevs": {
+      "hosting": {
+        "myapp": [
+          "tictactoekevs"
+        ]
+      }
     }
   },
   "projects": {

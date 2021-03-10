@@ -1,27 +1,34 @@
-# Myapp
+# Angular PWA - Tic-Tac-Toe
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
+## Table of Contents
 
-## Development server
+This is my README for a personal project
+* [Installation](#installation)
+* [Criteria](#Criteria)
+* [Usage](#Usage)
+* [Credits](#Credits)
+* [License](#License)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+I want to play it!: [https://angular-tic-tac-to.web.app/](https://angular-tic-tac-to.web.app/)
 
-## Code scaffolding
+![Should Look like this lol](/public/assets/img/gif.gif)
+# Installation
+* Learn Angular and Firebase magic!
+* Get Motivated
+* Create App to meet my criteria
+* Upload to Github 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# Criteria
+* Learn & Practice with Angular
+* Learn & Practice with Firebase for hosting/database
+* Create Tic-Tac-Toe game
 
-## Build
+# Usage
+* To practice with Angular 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+# Credits
+* The Universe - thanks
+* Fireship youtube channel [Repo](https://github.com/fireship-io/angular-tic-tac-toe)
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# License
+* [Apache License 2.0](https://github.com/kevsaj/Fun-with-Angular/blob/main/LICENSE)
