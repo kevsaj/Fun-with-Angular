@@ -9,7 +9,7 @@ This is my README for a personal project
 * [Credits](#Credits)
 * [License](#License)
 
-I want to play it!: [https://angular-tic-tac-to.web.app/](https://angular-tic-tac-to.web.app/)
+I want to play it!: [https://angular-tic-tac-to.web.app/](https://angular-tic-tac-to.web.app/){:target="_blank" rel="noopener"}
 
 ![Should Look like this lol](/public/assets/img/gif.gif)
 # Installation
@@ -18,13 +18,10 @@ I want to play it!: [https://angular-tic-tac-to.web.app/](https://angular-tic-ta
 * Create App to meet my criteria
 * Upload to Github 
 
-# Criteria
+# Criteria & Usage
 * Learn & Practice with Angular
 * Learn & Practice with Firebase for hosting/database
 * Create Tic-Tac-Toe game
-
-# Usage
-* To practice with Angular 
 
 # Credits
 * The Universe - thanks
