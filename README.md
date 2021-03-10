@@ -1,4 +1,4 @@
-# Angular PWA - Tic-Tac-Toe
+# Angular PWA - Tic-Tac-Toe 
 
 ## Table of Contents
 
