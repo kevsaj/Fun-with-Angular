@@ -9,7 +9,7 @@ This is my README for a personal project
 * [Credits](#Credits)
 * [License](#License)
 
-I want to play it!: [https://angular-tic-tac-to.web.app/](https://angular-tic-tac-to.web.app/){:target="_blank" rel="noopener"}
+I want to play it!: [https://angular-tic-tac-to.web.app/](https://angular-tic-tac-to.web.app/)
 
 ![Should Look like this lol](/public/assets/img/gif.gif)
 # Installation
